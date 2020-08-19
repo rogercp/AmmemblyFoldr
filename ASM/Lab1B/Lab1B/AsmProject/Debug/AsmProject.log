@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+  LINK : C:\Users\Roger\Documents\Visual Studio 2019\ASM\Lab1B\Lab1B\Debug\AsmProject.exe not found or not built by the last incremental link; performing full link
+asmlib.lib(asmLibC.obj) : warning LNK4099: PDB 'asmlib.pdb' was not found with 'asmlib.lib(asmLibC.obj)' or at 'C:\Users\Roger\Documents\Visual Studio 2019\ASM\Lab1B\Lab1B\Debug\asmlib.pdb'; linking object as if no debug info
+  AsmProject.vcxproj -> C:\Users\Roger\Documents\Visual Studio 2019\ASM\Lab1B\Lab1B\Debug\AsmProject.exe
